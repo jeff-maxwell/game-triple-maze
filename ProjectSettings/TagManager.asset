@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Start1
+  - Start2
+  - Start3
+  - Ball1
+  - Ball2
+  - Ball3
+  - NewGame
   layers:
   - Default
   - TransparentFX
