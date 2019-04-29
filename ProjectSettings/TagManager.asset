@@ -11,6 +11,9 @@ TagManager:
   - Ball2
   - Ball3
   - NewGame
+  - WelcomePanel
+  - PlayButton
+  - Maze
   layers:
   - Default
   - TransparentFX
