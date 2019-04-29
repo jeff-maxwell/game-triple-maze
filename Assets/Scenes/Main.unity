@@ -2865,6 +2865,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ball: {fileID: 980657084429686812, guid: ef70d3a7914954759b6025aa3e6099a5, type: 3}
+  welcomePanel: {fileID: 1061626680}
   timerText: {fileID: 795181887}
   endTimerText: {fileID: 747689389}
 --- !u!114 &1400876620
